@@ -9,14 +9,18 @@ pip install -r requirements.txt
 (2) run file `PortfolioOptimizationUsingMarkowitzMethod.ipynb`
 
 ## . Dataset
-The dataset includes the historical monthly price of 20 equities on NMS (MCD, WMT, KO, T, BAC, KHC, BA, TSLA, AMZN, AAPL, VZ, PFE, GS, MMM, AXP, CAT, FCAU, UL, COST, XOM) during the period of 5 years from 2016 to 2021. Or Goal is to use Mean-Variance Analysis Approach proposed by Markowitz in 1952 to find the optimal portfolio, that has the highest Sharpe Ratio.
+The dataset includes the historical monthly price of 20 equities on NMS (MCD, WMT, KO, T, BAC, KHC, BA, TSLA, AMZN, AAPL, VZ, PFE, GS, MMM, AXP, CAT, FCAU, UL, COST, XOM) during the period of 5 years from 2016 to 2021. The goal is to use Mean-Variance Analysis Approach proposed by Markowitz in 1952 to find the optimal portfolio, that has the highest Sharpe Ratio.
 
 ## 2. Results
 Below is the Capital Market Line, which tangents the Efficient Frontier at the optimal portfolio.
 
+**Capital Market Line and Efficient Frontier**
+
 ![image](https://github.com/TruongQuynhNhu/PortfolioOptimizationUsingMarkowitzMethod/assets/107611691/e491aa64-a0b5-4268-946b-ea308794cd50)
 
-To achieve the optimal portfolio, the Weights allocation is as belowing.
+To achieve the optimal portfolio, the Weights allocation is as below.
+
+**Porfolio Allocation**
 
 ![image](https://github.com/TruongQuynhNhu/PortfolioOptimizationUsingMarkowitzMethod/assets/107611691/472b344d-9615-4f4f-b3aa-291e5586a86b)
 
