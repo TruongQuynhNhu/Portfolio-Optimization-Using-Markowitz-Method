@@ -19,7 +19,8 @@ Below is the Capital Market Line, which tangents the Efficient Frontier at the o
 
 **Capital Market Line and Efficient Frontier**
 
-![image](https://github.com/TruongQuynhNhu/PortfolioOptimizationUsingMarkowitzMethod/assets/107611691/e491aa64-a0b5-4268-946b-ea308794cd50)
+![image](https://github.com/TruongQuynhNhu/PortfolioOptimizationUsingMarkowitzMethod/assets/107611691/e491aa64-a0b5-4268-946b-ea308794cd50) ![image](https://github.com/TruongQuynhNhu/PortfolioOptimizationUsingMarkowitzMethod/assets/107611691/ff268809-7eb2-4647-bed6-57c32a7f5599)
+
 
 To achieve the optimal portfolio, the Weights allocation is as below.
 
